@@ -1,6 +1,8 @@
 # ell3a
 
-Olá meu nome é Leandor Vieira. Bem vindo ao meu repositório no GitHub. Aqui você encontrará arquivos e códigos de estudos em matemática e programação.
+Olá meu nome é Leandro Vieira. sou professo de matemática e entusiasta por por programação. 
+
+Seja bem vindo ao meu repositório no GitHub. Aqui você encontrará arquivos e códigos de estudos em matemática e programação.
 
 ## Lista de Locais
 
