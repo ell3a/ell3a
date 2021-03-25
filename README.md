@@ -1,9 +1,10 @@
 # ell3a
 
-Olá meu nome é Leandro Vieira. sou professo de matemática e entusiasta por por programação. 
+Olá meu nome é Leandro Vieira. sou professor de matemática e entusiasta de programação. 
 
 Seja bem vindo ao meu repositório no GitHub. Aqui você encontrará arquivos e códigos de estudos em matemática e programação.
 
+---
 ## Lista de Locais
 
 * [estudos-sage-math](https://github.com/ell3a/estudos-sage-math): arquivos sobre estudos de Sage Math, uma distribuição que encapsula uma série softwares matemático livres.
